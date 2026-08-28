@@ -1,0 +1,6 @@
+interface:
+  display_name: "BLE Communications"
+  short_description: "Diagnose and optimize BLE throughput"
+  default_prompt: "Use $skill-ble-communications to audit a BLE throughput problem across the application, protocol stack, RF, and Linux host."
+policy:
+  allow_implicit_invocation: true
