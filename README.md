@@ -56,6 +56,16 @@ link, and application evidence.
 
 ## References
 
+The original Punch Through reading path that started this skill:
+
+- [BLE Throughput Optimization FAQ](https://punchthrough.com/ble-throughput-optimization-faq/)
+- [ATT MTU and Throughput](https://punchthrough.com/ble-att-mtu-throughput/)
+- [Connection Interval and Throughput](https://punchthrough.com/ble-connection-interval-throughput/)
+- [Transfer Methods for Throughput](https://punchthrough.com/ble-transfer-methods-for-throughput/)
+- [Complete six-part BLE throughput series](https://punchthrough.com/topics/ble-throughput/)
+
+The local wiki distills those sources into reusable guidance:
+
 - [BLE throughput model](references/throughput-model.md) — capacity chain,
   sizing targets, transfer choices, and measurement interpretation; based on
   [Punch Through’s six-part BLE throughput index](https://punchthrough.com/topics/ble-throughput/).
