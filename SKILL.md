@@ -1,6 +1,7 @@
 ---
 name: skill-ble-communications
 description: Design, diagnose, or optimize BLE data throughput when the answer depends on negotiated link parameters, RF conditions, host/controller behavior, and application transfer choices.
+license: LICENSE.md
 ---
 
 # BLE communications
